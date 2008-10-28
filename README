@@ -1,6 +1,6 @@
 kbproto
 ------------------------------------------
-Xorg XKB protocol headers
+X.Org XKB protocol headers
 
 Build requirements:
   cygwin-1.5.22-1

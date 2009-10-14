@@ -1,3 +1,4 @@
 category: X11
-sdesc: "X.Org XKB protocol headers"
-ldesc: "X.Org XKB protocol headers"
+requires: xproto
+sdesc: "X.Org XKB extension headers"
+ldesc: "X.Org XKB extension headers"
